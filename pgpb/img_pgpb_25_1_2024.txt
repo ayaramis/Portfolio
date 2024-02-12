@@ -1,0 +1,28 @@
+taxon_oid	Domain	Sequencing Status	Study Name	Genome Name / Sample Name	Sequencing Center	IMG Genome ID 	Genome Size   * assembled	Gene Count   * assembled	
+2791355398	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. B-Nf7	Georgia Institute of Technology	2791355398	5680844	5470	
+2791355387	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. G-Nf4	Georgia Institute of Technology	2791355387	5469131	5240	
+2791355141	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Stenotrophomonas sp. Nf4	Georgia Institute of Technology	2791355141	4501740	4078	
+2506520008	Bacteria	Finished	Genomics of four rapeseed plant growth promoting bacteria with antagonistic effect on plant pathogens.	Serratia plymuthica AS12	DOE Joint Genome Institute (JGI)	2506520008	5443009	5139	
+2508501071	Bacteria	Permanent Draft	Genomics of four rapeseed plant growth promoting bacteria with antagonistic effect on plant pathogens.	Serratia proteamaculans S4	DOE Joint Genome Institute (JGI)	2508501071	5454741	5141	
+2791355391	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. E-Nf3	Georgia Institute of Technology	2791355391	5554817	5353	
+2791355390	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. F-Nf9	Georgia Institute of Technology	2791355390	5800320	5618	
+2795385502	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. X1-16S-Nf21	Georgia Institute of Technology	2795385502	5829843	5759	
+2791355396	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. C-Nf10	Georgia Institute of Technology	2791355396	5572490	5358	
+2506520009	Bacteria	Finished	Genomics of four rapeseed plant growth promoting bacteria with antagonistic effect on plant pathogens.	Serratia plymuthica AS13	DOE Joint Genome Institute (JGI)	2506520009	5442549	5139	
+2698536637	Bacteria	Permanent Draft	Arthrobacter koreensis 5J12A. Desiccation tolerant microorganisms isolated from Nerium oleander rhizosphere after a period of drought in Granada (Southern Spain). Plant Growth Promoting Bacteria and protect plants from drought.	Arthrobacter koreensis 5J12A	University of Granada	2698536637	3450813	3230	
+2791355399	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. K-Nf6	Georgia Institute of Technology	2791355399	5666983	5486	
+2791354940	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Kluyvera sp. Nf5	Georgia Institute of Technology	2791354940	5713538	5663	
+2791355009	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Kosakonia sp. H7A	Georgia Institute of Technology	2791355009	5754440	5583	
+2791355388	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. G2-16S-Nf13	Georgia Institute of Technology	2791355388	5455701	5215	
+2791355395	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. C1-16S-Nf17	Georgia Institute of Technology	2791355395	5683823	5479	
+2791355397	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. D-Nf1	Georgia Institute of Technology	2791355397	5578874	5380	
+2791355394	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. H-Nf2	Georgia Institute of Technology	2791355394	5551673	5380	
+2795385498	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Serratia sp. Nf2	Georgia Institute of Technology	2795385498	5217075	5043	
+2506520007	Bacteria	Finished	Genomics of four rapeseed plant growth promoting bacteria with antagonistic effect on plant pathogens.	Serratia plymuthica AS9	DOE Joint Genome Institute (JGI)	2506520007	5442880	5138	
+2791355392	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. A-Nf5	Georgia Institute of Technology	2791355392	5820158	5673	
+2898857933	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Raoultella sp. T31	Georgia Institute of Technology	2898857933	5329679	5234	
+2791355490	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Bacillus sp. Nf3	Georgia Institute of Technology	2791355490	3741311	3877	
+2516653086	Bacteria	Permanent Draft	Draft genome for plant growth promoting rhizobacterium	Peribacillus simplex 30N-5	University of California, Los Angeles	2516653086	5459036	5411	
+2791355393	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. I-Nf8	Georgia Institute of Technology	2791355393	5467416	5241	
+2791355386	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. J-Nf11	Georgia Institute of Technology	2791355386	5468081	5239	
+2791355389	Bacteria	Permanent Draft	Plant growth promoting bacteria isolated from sugarcane	Klebsiella sp. T11	Georgia Institute of Technology	2791355389	5492159	5362	
